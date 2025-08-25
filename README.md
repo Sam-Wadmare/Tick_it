@@ -1,6 +1,12 @@
 # Tick_it
 A simple One-Day To-Do List Web App designed to keep your focus on what matters today. This project demonstrates task management with a basic database integration.
 
+⚙️ Project Setup (npm)
+Write This Commands in terminal for setup:
+npm init -y
+npm i express
+npm i pg
+node index.js (run the file)
 
 🗄️ Database Setup
 
