@@ -18,7 +18,7 @@ db.connect();
 app.use(bodyParser.urlencoded({ extended: true }));
 app.use(express.static("public"));
 
-
+let items = [];
 
 app.get("/",async (req, res) => {
 
